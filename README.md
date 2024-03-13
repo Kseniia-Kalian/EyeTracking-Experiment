@@ -15,4 +15,6 @@ New texts can be addded by creating new files with subsequent numbers (3 files f
 
 Settings: 
 - "Gaze activation time" - it determines how soon the pop-up window should appear when you are looking at the interactive word or when you hover a mouse over it. By default it is set at 0.5 seconds, but it can be changed by pressing "Increase" or "Decrease" buttons.
+
+
 This software was used in "Efficiency of ‘Gaze-controlled translation’ vs conventional approaches to education in the sphere of teaching foreign languages: a comparative analysis" master's thesis written by Kseniia Kalian.
